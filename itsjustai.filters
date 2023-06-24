@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{9a3b5c6e-a685-4012-be1b-d08dd8bfb253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hooks">
+      <UniqueIdentifier>{acd1249d-a229-4818-9d19-98909b06e04d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{026f79fd-7868-4db7-9029-614494312781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="itsjustai">
+      <UniqueIdentifier>{0e66b372-297a-4fa3-8497-c664e900e125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="asm">
+      <UniqueIdentifier>{c96f90bc-1bd9-40ce-940a-3cb791541d29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hooks\DrawTransition.h">
+      <Filter>hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>itsjustai</Filter>
+    </ClInclude>
+    <ClInclude Include="safecall.h">
+      <Filter>itsjustai</Filter>
+    </ClInclude>
+    <ClInclude Include="encrypt.h">
+      <Filter>itsjustai</Filter>
+    </ClInclude>
+    <ClInclude Include="spoof_call.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sdkdefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="actorloop.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="aimbot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="esp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="gui.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="mouse.h">
+      <Filter>itsjustai</Filter>
+    </ClInclude>
+    <ClInclude Include="shit.h">
+      <Filter>itsjustai</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="NtUserSendInput.asm">
+      <Filter>asm</Filter>
+    </MASM>
+    <MASM Include="spoofinternal.asm">
+      <Filter>asm</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
