@@ -1,6 +1,6 @@
 # Fortnite-internal-itzjustai
 
-Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting me because the cheat isnt even working on most winver according to him, only on 1909, also i got ripped off way more than i should have for this garbage source which isnt FULL ud as he claimed, anyways its dtc as fuck and hes full of shit, but here working internal which is barely even working lol.
+Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting me because the cheat isnt even working on most winver according to him, only on 1909, also i got ripped off way more than i should have for this garbage source which isnt FULL ud as he claimed, anyways its dtc as fuck and hes full of shit, but here working internal which is barely even working lol. 
 
 His other boosting rewards:
 https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar <- this src working on most winvers but total garbage
