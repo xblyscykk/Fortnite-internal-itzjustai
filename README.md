@@ -2,8 +2,10 @@
 
 Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting me because the cheat isnt even working on most winver according to him, only on 1909, also i got ripped off way more than i should have for this garbage source which isnt FULL ud as he claimed, anyways its dtc as fuck and hes full of shit, but here working internal which is barely even working lol. 
 
+AI is ratting hard with his shitty injectors from booster rewards so make sure u dont buy them, heres all his boosting rewards but some could be infected with rat who knows.
+
 His other boosting rewards:
-https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar <- this src working on most winvers but total garbage
+https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar
 https://cdn.discordapp.com/attachments/1117123238032593057/1117124531815993466/aliean_leak.rar
 https://cdn.discordapp.com/attachments/1119639235813707878/1119639947532566638/itsjustai.vcxproj
 https://cdn.discordapp.com/attachments/1119639235813707878/1119639947121537086/itsjustai.sln
