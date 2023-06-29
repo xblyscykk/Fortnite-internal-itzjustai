@@ -6,6 +6,9 @@ AI is ratting hard with his shitty injectors from booster rewards so make sure u
 
 Also AI is also known as SIGMA#0001, known to be scamming.
 
+This shit src also crashing on EAC, temporary fix is injecting this dll before the cheat https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar
+
+
 His other boosting rewards:
 https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar
 https://cdn.discordapp.com/attachments/1117123238032593057/1117124531815993466/aliean_leak.rar
