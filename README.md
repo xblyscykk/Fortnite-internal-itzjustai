@@ -4,6 +4,8 @@ Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting
 
 AI is ratting hard with his shitty injectors from booster rewards so make sure u dont buy them, heres all his boosting rewards but some could be infected with rat who knows.
 
+Also AI is also known as SIGMA#0001, also known to be scamming.
+
 His other boosting rewards:
 https://cdn.discordapp.com/attachments/1119639235813707878/1120731572006555688/A.rar
 https://cdn.discordapp.com/attachments/1117123238032593057/1117124531815993466/aliean_leak.rar
