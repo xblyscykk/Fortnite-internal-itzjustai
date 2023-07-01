@@ -3,10 +3,6 @@
 https://cdn.discordapp.com/attachments/1122933059063398460/1123839992125464617/0628.mp4
 
 AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
-AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
-AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
-AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
-AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
 
 Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting me because the cheat isnt even working on most winver according to him, only on 1909, also i got ripped off way more than i should have for this garbage source which isnt FULL ud as he claimed, anyways its dtc as fuck and hes full of shit, but here working internal which is barely even working lol. 
 
