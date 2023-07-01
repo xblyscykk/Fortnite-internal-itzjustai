@@ -6,6 +6,8 @@ AI IS NOW MYSTERY MAN DONT BUY HIS REWARDS!!!!
 
 AI Has many aliases : mystery0man, AI#0002, SIGMA#0001 so beware of these because hes a scammer
 
+This is the same exact shitty internal hes selling, the injectors are included in the links below.
+
 Shitty internal pasted by AI, leaked from his boosting rewards, he tried ratting me because the cheat isnt even working on most winver according to him, only on 1909, also i got ripped off way more than i should have for this garbage source which isnt FULL ud as he claimed, anyways its dtc as fuck and hes full of shit, but here working internal which is barely even working lol. 
 
 AI is ratting hard with his shitty injectors from booster rewards so make sure u dont buy them, heres all his boosting rewards but some could be infected with rat who knows.
